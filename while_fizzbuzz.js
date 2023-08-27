@@ -14,9 +14,9 @@ function fizzBuzz() {
         } else {
             output.push(count);
         }
-        console.log(output);
         count++;
     }
+    console.log(output);
 }
 
 // En consola ejecutar la función
